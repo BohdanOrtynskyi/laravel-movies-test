@@ -7,8 +7,8 @@ Stack:
 
 Setup:
 
-cp .env.example .env
-sail up -d
-sail artisan migrate
-npm install
-npm run build
+cp .env.example .env 
+sail up -d 
+sail artisan migrate 
+npm install 
+npm run build 
